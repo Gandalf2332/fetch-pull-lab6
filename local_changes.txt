@@ -1,1 +1,3 @@
-This line is from LOCAL main v2.
+
+This line combines LOCAL main v2 and REMOTE main v2This line is from LOCAL main v2.
+
